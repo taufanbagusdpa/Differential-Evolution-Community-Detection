@@ -1,0 +1,5 @@
+GN
+karate : 0.16205596923828125 seconds
+football : 8.923898220062256 seconds
+dolphins : 0.6481599807739258 seconds
+books : 4.97903299331665 seconds
